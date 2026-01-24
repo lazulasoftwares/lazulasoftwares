@@ -71,6 +71,19 @@
 
 <br/><br/>
 
+<h2 align="center">📂 Portfólio de Demos</h2>
+<div align="center">
+  <p>Explore exemplos práticos do nosso trabalho, hospedados em GitHub Pages.</p>
+  <p>
+    <a href="https://lazulasoftwares.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Portfólio" />
+    </a>
+  </p>
+</div>
+
+<br/>
+<hr/>
+
 <div align="center">
   <p>Procurando um parceiro tecnológico para o seu negócio?</p>
   <h3><a href="mailto:contato@lazulasoftwares.com">Vamos conversar ☕</a></h3>
